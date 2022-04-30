@@ -378,7 +378,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "All About Me";
+    content: "All Other About Me";
 }
 .teams .carousel .card{
     background: #222;
@@ -441,7 +441,7 @@ section .title::after{
 
 /* contact section styling */
 .contact .title::after{
-    content: "get in touch";
+    content: "All My Contacts";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
