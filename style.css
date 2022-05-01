@@ -267,7 +267,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "All My Projects";
+    content: "All My Big Projects";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -372,7 +372,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "All Other About Me";
+    content: "All My Best Friends";
 }
 .teams .carousel .card{
     background: #222;
