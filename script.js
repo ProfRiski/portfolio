@@ -42,9 +42,9 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Minecraft Server Dev", "Discord Bot Dev", "Website Dev"],
-        typeSpeed: 100,
-        backSpeed: 60,
+        strings: ["Normal People", "Discord Developer", "Minecraft Developer"],
+        typeSpeed: 300,
+        backSpeed: 180,
         loop: true
     });
 
