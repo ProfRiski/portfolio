@@ -36,15 +36,15 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Normal People", "Discord Developer", "Minecraft Developer"],
-        typeSpeed: 300,
-        backSpeed: 180,
+        typeSpeed: 150,
+        backSpeed: 90,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Normal People", "Discord Developer", "Minecraft Developer"],
-        typeSpeed: 300,
-        backSpeed: 180,
+        typeSpeed: 150,
+        backSpeed: 90,
         loop: true
     });
 
