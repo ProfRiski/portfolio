@@ -447,7 +447,7 @@ section .title::after{
     font-weight: 500;
 }
 .contact .contact-content .info .sub-title{
-    color: #333;
+    color: #222;
 }
 .contact .right form .fields{
     display: flex;
@@ -497,7 +497,7 @@ section .title::after{
     height: 100%;
     border: 2px solid crimson;
     background: crimson;
-    color: #fff;
+    color: #222;
     outline: none;
     font-size: 20px;
     font-weight: 500;
